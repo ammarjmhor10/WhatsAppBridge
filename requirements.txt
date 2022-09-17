@@ -1,0 +1,9 @@
+Flask
+pyTelegramBotAPI
+requests
+SQLAlchemy
+pydantic
+dataclasses
+typing-extensions
+gunicorn
+python-dotenv
