@@ -3,7 +3,7 @@ from WhatsApp import whatsApp
 from dotenv import load_dotenv
 import os 
 load_dotenv()
-TOKEN = os.environ.get('TELE_TOKEN')
+TOKEN = os.environ.get('TELE_TOKEN_WHATSAPP_BRIDGE')
 bot = TeleBot(TOKEN)
 
 
